@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Nome: Iago Carvalho<br>- Idade: 19 anos<br>- Desenvolvedor Java | Spring Boot<br>- Cursando Análise e desenvolvimento de Sistemas</p>
+<p align="left">- Nome: Iago Carvalho<br>- Idade: 19 anos<br>- Desenvolvedor Java | Spring Boot | Docker | MySQL | PostgresSQL<br>- Cursando Análise e desenvolvimento de Sistemas</p>
 
 ###
 
