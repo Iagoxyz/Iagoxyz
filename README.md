@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Nome: Iago Carvalho<br>- Idade: 19 anos<br>- Desenvolvedor Java | Spring Boot | Spring Security + JWT | REST APIs | Docker | MySQL | CI/CD  <br>- Cursando Análise e desenvolvimento de Sistemas (4/5)</p>
+<p align="left">- Nome: Iago Carvalho<br>- Idade: 19 anos<br>- Desenvolvedor Java | Spring Boot | Spring Security + JWT | REST APIs | Docker | MySQL | CI/CD  <br>- Cursando Análise e desenvolvimento de Sistemas (4/5).</p>
 
 ###
 
